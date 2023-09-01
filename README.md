@@ -7,7 +7,7 @@
 ## Features
 
 - Next.js for server-side rendering and client-side JavaScript
-- Implemented experirmental next.js feature: server actions
+- Implemented experimental Next.js feature: Server Actions
 - Supabase for database access and authentication with Github
 - Tailwind for styling
 - Typescript for a strong typed javascript
